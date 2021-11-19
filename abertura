@@ -36,6 +36,19 @@
 </channels>
 
 
+  
+</channel>
+<channel>
+<name>[COLOR=gold][B]ADDON ZOKOS TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/page1/main/paginadeabertura</externallink>
+<fanart>https://ia801904.us.archive.org/33/items/novo-fanart-zokos/Novo%20Fanart%20Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
 </channel>
 <channel>
 <name>[COLOR=gold][B]ÁREA DE TESTES[/B][/COLOR][COLOR=gold][/COLOR]</name>
