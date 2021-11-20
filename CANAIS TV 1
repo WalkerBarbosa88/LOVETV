@@ -66,9 +66,14 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1578415
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 
+#EXTINF:-1 ,[COLOR=white][B]MIAMI TV LATINO[/B][/COLOR][COLOR=white][/COLOR]
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV - JENNY LIVE[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
+#EXTINF:-1 ,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTM3U
 
 
@@ -87,6 +92,9 @@ http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 
 #EXTINF:-1,[COLOR=white][B]FILMON EROTIC SENSATIONS[/B][/COLOR][COLOR=white][/COLOR]
 https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]FILMON FETISH FACTORY[/B][/COLOR][COLOR=white][/COLOR] 
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 
 #EXTINF:-1 ,[COLOR=white][B]MILF[/B][/COLOR][COLOR=white][/COLOR]
 http://live.redtraffic.xyz/milf.m3u8
