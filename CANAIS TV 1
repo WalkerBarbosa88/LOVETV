@@ -5,7 +5,7 @@ http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 20/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA MINI-REVISTA: 23/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
   
 #EXTM3U
 
@@ -14,20 +14,19 @@ http://0.0.0.0:00000
 #EXTINF:-1,[COLOR=blue][B]CANAIS NOVOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,SEX PRIVE
+#EXTINF:-1,[COLOR=white][B]SEX PRIVE[/B][/COLOR][COLOR=white][/COLOR]
 http://191.37.223.132:8000/play/a02u/index.m3u8
-#EXTINF:-1,PLAYBOY
+#EXTINF:-1,[COLOR=white][B]PLAYBOY[/B][/COLOR][COLOR=white][/COLOR]
 http://186.189.222.205:8000/play/a09a/index.m3u8
-#EXTINF:-1,SEX XTREME
+#EXTINF:-1,[COLOR=white][B]SEX XTREME[/B][/COLOR][COLOR=white][/COLOR]
 http://186.189.222.205:8000/play/a09c/index.m3u8
-#EXTINF:-1,VENUS
+#EXTINF:-1,[COLOR=white][B]VENUS[/B][/COLOR][COLOR=white][/COLOR]
 http://186.189.222.205:8000/play/a09b/index.m3u8
-#EXTINF:-1,VENUS
+#EXTINF:-1,[COLOR=white][B]VENUS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.225.95.170:8001/play/a05h
-#EXTINF:-1,ERO XXX
+#EXTINF:-1,[COLOR=white][B]ERO XXX[/B][/COLOR][COLOR=white][/COLOR]
 http://91.132.60.82:4000/play/eroxxx/index.m3u8
-#EXTINF:-1,HUSTLER TV
-http://91.132.60.82:4000/play/hustler/index.m3u8
+
 
 
 #######################################################################################################################
