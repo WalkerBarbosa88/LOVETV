@@ -5,7 +5,7 @@ http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 17/12/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 19/12/2021[/B][/COLOR][COLOR=yellow][/COLOR]
   
 #EXTM3U
 
@@ -14,8 +14,20 @@ http://0.0.0.0:00000
 #EXTINF:-1,[COLOR=blue][B]CANAIS NOVOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000
+#EXTINF:-1,[COLOR=branco][B]BRAZZERS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://s846397078.mialojamiento.es/4816/mp.php/http://50.7.164.28:8081/46/tracks-1,2/index.m3u8?wmsAuthSign=1639932487p89i18i561i28S21c12f8ace3a3abbbf13de825509bf1b
+
+#EXTINF:-1,[COLOR=branco][B]CANDY TV[/B][/COLOR][COLOR=white][/COLOR]
+http://s846397078.mialojamiento.es/4816/mp.php/http://50.7.164.28:8081/24/index.m3u8?wmsAuthSign=1639926266p89i18i561i28S1c9c2cdbbbd044d469bc91549f9f040c
+
+#EXTINF:-1,[COLOR=branco][B]DORCEL TV[/B][/COLOR][COLOR=white][/COLOR]
+http://s846397078.mialojamiento.es/4816/mp.php/http://50.7.164.28:8081/21/tracks-1,2/index.m3u8?wmsAuthSign=1639933204p89i18i561i28S63b8441fa32a6cdfbef83b18c7c8d884
+
+#EXTINF:-1,[COLOR=white][B]HUSTLER BLUE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://s846397078.mialojamiento.es/4816/mp.php/http://50.7.164.28:8081/19/index.m3u8?wmsAuthSign=1639920752p89i18i561i28S7f6d234210c8196f7332df5ad7aa0a89
+
+#EXTINF:-1,[COLOR=white][B]XXL 1 TV[/B][/COLOR][COLOR=white][/COLOR]
+http://s846397078.mialojamiento.es/4816/mp.php/http://50.7.164.28:8081/30/index.m3u8?wmsAuthSign=1639931766p89i18i561i28Sc24789ba0bb216b3f37e23140371b465
 
 #EXTINF:-1 group-title="18+",[COLOR=white][B]SEXY HOT[/B][/COLOR][COLOR=white][/COLOR]
 http://livetv2021.site:8080/9897876765/6576567/8853
