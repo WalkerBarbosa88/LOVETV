@@ -5,7 +5,7 @@ http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 19/12/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 22/12/2021[/B][/COLOR][COLOR=yellow][/COLOR]
   
 #EXTM3U
 
@@ -18,16 +18,8 @@ https://00000000000000000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]VENUS[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.56:8000/play/a0cz/index.m3u8
-#EXTINF:-1,[COLOR=white][B]PLAYBOY[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.56:8000/play/a0b5/index.m3u8
-#EXTINF:-1,[COLOR=white][B]HOT[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.56:8000/play/a0e5/index.m3u8
-#EXTINF:-1 group-title="Взрослые",[COLOR=white][B]REDLIGHT[/B][/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/Redlight/index.m3u8
-#EXTINF:-1 group-title="Взрослые",[COLOR=white][B]PENTHOUSE GOLD[/B][/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/Penthouse/index.m3u8
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://00000000000000000000000
 
 
 #######################################################################################################################
@@ -39,9 +31,6 @@ https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]FASHION TV MIDNITE SECRETS[/B][/COLOR][COLOR=white][/COLOR]
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]FASHION TV MIDNITE SECRETS[/B][/COLOR][COLOR=white][/COLOR]
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]JASMIN TV[/B][/COLOR][COLOR=white][/COLOR]
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
