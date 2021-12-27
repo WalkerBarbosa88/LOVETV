@@ -71,9 +71,6 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjAyMTNf/DarcizzleOffshore_312x312.png" group-title="Adults Only | 18+",[COLOR=white][B]DARCIZZLE OFFSHORE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://30a-tv.com/feeds/xodglobal/fishingoffshore.m3u8
-
 #EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" tvg-url="" group-title="XXX",[COLOR=white][B]EXTASY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 
