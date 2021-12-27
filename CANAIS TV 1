@@ -53,8 +53,11 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV LATINO[/B][/COLOR][COLOR=white][/COLOR]
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 
-#EXTINF:-1 ,[COLOR=white][B]MIAMI TV - JENNY LIVE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 ,[COLOR=white][B]MIAMI TV - JENNY LIVE 1[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+
+#EXTINF:-1 ,[COLOR=white][B]MIAMI TV - JENNY LIVE 2[/B][/COLOR][COLOR=white][/COLOR]
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1412244599_b1896000.m3u8
 
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
