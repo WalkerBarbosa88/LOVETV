@@ -24,25 +24,12 @@
 
 </channel>
 <channel>
-<name>[COLOR=gold][B]CANAIS TV 1 (TESTE)[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/9/items/icon-2_202111/icon%20(2).png</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LOVETV/main/canaistvxxx</externallink>
-<fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
-<info>portugalkodi.com</info>
-</channel>
-
-
-
-
-</channel>
-<channel>
 <name>[COLOR=gold][B]CANAIS TV 2[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601409.us.archive.org/9/items/icon-2_202111/icon%20(2).png</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LOVETV/main/CANAIS%20TV%202</externallink>
 <fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
-
 
 
 </channel>
@@ -53,8 +40,6 @@
 <fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
-
-
 
 
 </channel>
@@ -76,8 +61,7 @@
 <info>portugalkodi.com</info>
 </channel>
   
-  
-  
+   
   
 </channel>
 <channel>
@@ -87,7 +71,6 @@
 <fanart>https://ia801904.us.archive.org/33/items/novo-fanart-zokos/Novo%20Fanart%20Zokos.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
-
 
 
 </channel>
