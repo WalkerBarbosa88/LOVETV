@@ -1,7 +1,7 @@
 
 
 ##########################################################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  FILMES/VIDEOS SEXO 3  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  CANAIS TV XXX (TESTE)  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
@@ -57,6 +57,7 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1412
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
+#EXTM3U
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS ADULTOS XXX[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
@@ -85,6 +86,7 @@ https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:0,[COLOR=white][B]SHEMALE 2[/B][/COLOR][COLOR=white][/COLOR]
 https://www.ast.tv/stream/2/cellular.m3u8
 
+#EXTM3U
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS ADULTOS XXX PUBLICIDADE[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
