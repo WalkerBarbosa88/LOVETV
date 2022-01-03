@@ -14,9 +14,6 @@ http://0.0.0.0:00000
 #EXTINF:-1,[COLOR=blue][B]CANAIS NOVOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://00000000000000000000
 
-  
-#EXTM3U
-
 
 #EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://00000000000000000000000
@@ -25,8 +22,6 @@ http://00000000000000000000000
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS ERÓTICOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
-
-#EXTM3U
 
 
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]FASHION TV MIDNITE SECRETS[/B][/COLOR][COLOR=white][/COLOR]
@@ -61,15 +56,10 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1412
 
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-#EXTM3U
-
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS ADULTOS XXX[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
-
-#EXTM3U
-
 
 #EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" tvg-url="" group-title="XXX",[COLOR=white][B]EXTASY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
@@ -95,13 +85,9 @@ https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:0,[COLOR=white][B]SHEMALE 2[/B][/COLOR][COLOR=white][/COLOR]
 https://www.ast.tv/stream/2/cellular.m3u8
 
-#EXTM3U
-
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS ADULTOS XXX PUBLICIDADE[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
-
-#EXTM3U
 
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET ANAL[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn.adultiptv.net/anal.m3u8
@@ -188,9 +174,6 @@ http://cdn.adultiptv.net/threesome.m3u8
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET WOMAN[/B][/COLOR][COLOR=white][/COLOR]
 http://live.redtraffic.net/woman.m3u8
-
-
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XXX LIVE CAMS[/B][/COLOR][COLOR=white][/COLOR]
 http://play.iptvxxx.net/livecams.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XXX MILF[/B][/COLOR][COLOR=white][/COLOR]
@@ -207,7 +190,6 @@ http://play.iptvxxx.net/pornstar.m3u8
 http://play.iptvxxx.net/bigass.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XXX INTERRACIAL[/B][/COLOR][COLOR=white][/COLOR]
 http://play.iptvxxx.net/interracial.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XXX POV[/B][/COLOR][COLOR=white][/COLOR]
 http://play.iptvxxx.net/pov.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XXX BLOWJOB[/B][/COLOR][COLOR=white][/COLOR]
@@ -236,12 +218,10 @@ http://play.iptvxxx.net/compilation.m3u8
 http://play.iptvxxx.net/brunette.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XXX BLONDE[/B][/COLOR][COLOR=white][/COLOR]
 http://play.iptvxxx.net/blonde.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]XXX VISIT-X TV[/B][/COLOR][COLOR=white][/COLOR]
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]XXX VISIT-X TV[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]MILF HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 1[/B][/COLOR][COLOR=white][/COLOR]
