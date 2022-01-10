@@ -9,13 +9,6 @@ http://0.0.0.0:00000
   
 #EXTM3U
 
-#######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]WEBCAM XXX (TESTE)[/B][/COLOR][COLOR=blue][/COLOR]
-https://00000000000000000000
-
-
-#EXTINF:-1 ,[COLOR=white][B]MELONY MARKS CAM HD[/B][/COLOR][COLOR=white][/COLOR]
-https://static1.dditscdn.com/jsm2/site/livejasmin/video/tv.mp4
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS NOVOS[/B][/COLOR][COLOR=blue][/COLOR]
@@ -27,8 +20,6 @@ http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 
 #EXTINF:-1 ,[COLOR=white][B]VISIT-X TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
-
-
 
 
 #######################################################################################################################
