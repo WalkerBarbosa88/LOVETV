@@ -21,6 +21,12 @@ http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 ,[COLOR=white][B]VISIT-X TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 
+#EXTINF:-1 ,[COLOR=white][B]AST TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://www.ast.tv/stream/1/ultra.m3u8 
+
+#EXTINF:-1 ,[COLOR=white][B]AST TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://www.ast.tv/stream/2/ultra.m3u8 
+
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS ERÓTICOS[/B][/COLOR][COLOR=blue][/COLOR]
