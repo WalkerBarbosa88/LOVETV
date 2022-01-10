@@ -1,11 +1,11 @@
 
 ##########################################################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  CANAIS TV XXX - LISTA 2  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  CANTINHO DE TESTES 2  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA DISPONÍVEL BREVEMENTE[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]ESPAÇO DE TESTE DO ADODN LOVE TV[/B][/COLOR][COLOR=yellow][/COLOR]
   
 #EXTM3U
 
