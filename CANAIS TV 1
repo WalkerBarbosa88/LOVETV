@@ -18,6 +18,8 @@ https://00000000000000000000
 #EXTINF:-1 ,[COLOR=white][B]EXTASY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 
+#EXTINF:-1 ,[COLOR=white][B]VISIT-X TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 
 
 #######################################################################################################################
