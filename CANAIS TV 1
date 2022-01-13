@@ -5,13 +5,13 @@ http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 10/01/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/01/2022[/B][/COLOR][COLOR=orange][/COLOR]
   
 #EXTM3U
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]CANAIS NOVOS[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]CANAIS NOVOS[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000000000000
 
 
@@ -23,7 +23,7 @@ https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]CANAIS ERÓTICOS[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]CANAIS ERÓTICOS[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -61,7 +61,7 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1412
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]CANAIS ADULTOS XXX[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]CANAIS ADULTOS XXX[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" tvg-url="" group-title="XXX",[COLOR=white][B]EXTASY TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -83,7 +83,7 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://live.redtraffic.xyz/pov.m3u8
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]CANAIS ADULTOS XXX PUBLICIDADE[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]CANAIS ADULTOS XXX PUBLICIDADE[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET ANAL[/B][/COLOR][COLOR=white][/COLOR]
