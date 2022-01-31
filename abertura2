@@ -32,16 +32,6 @@
 </channel>
 
 
-</channel>
-<channel>
-<name>[COLOR=gold][B]IMAGENS[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601502.us.archive.org/5/items/obras_202201/OBRAS.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LOVETV/main/fotos</externallink>
-<fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
-<info></info>
-</channel>
-</channel>
-
 
 
 </channel>
@@ -65,19 +55,6 @@
 </channel>
 </channel>
 
-
-</channel>
-<channel>
-<name>[COLOR=gold][B]FILMES 3[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia904502.us.archive.org/13/items/lista-videos-xxx/Lista%20Videos%20XXX.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LOVETV/main/FILMES3</externallink>
-<fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
-<info></info>
-</channel>
-</channel>
- 
- 
- 
  
 </channel>
 <channel>
@@ -90,8 +67,7 @@
 </channel>
  
   
- 
- </channel>
+</channel>
 <channel>
 <name>[COLOR=gold][B]BLACK ARROW ADULTO[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia803404.us.archive.org/4/items/addon-black-arrow/Addon%20Black%20Arrow.jpg</thumbnail>
