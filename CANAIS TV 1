@@ -42,8 +42,17 @@ http://109.71.162.112/live/sd.jasminchannel.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMxNTUxNDVf/Kaloopy_340x340.png" group-title="Adults Only | 18+",[COLOR=white][B]KALOOPY 18+[/B][/COLOR][COLOR=white][/COLOR]
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 
+#EXTINF:-1 ,[COLOR=white][B]MIAMI TV[/B][/COLOR][COLOR=white][/COLOR]
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
+
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV LATINO[/B][/COLOR][COLOR=white][/COLOR]
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+
+#EXTINF:-1 ,[COLOR=white][B]MIAMI TV LATINO[/B][/COLOR][COLOR=white][/COLOR]
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+
+#EXTINF:-1 ,[COLOR=white][B]MIAMI TV - JENNY LIVE 1[/B][/COLOR][COLOR=white][/COLOR]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV - JENNY LIVE 1[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
