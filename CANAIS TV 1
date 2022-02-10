@@ -5,7 +5,7 @@ http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 31/01/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/02/2022[/B][/COLOR][COLOR=orange][/COLOR]
   
 #EXTM3U
 
@@ -70,21 +70,8 @@ https://000000
 #EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" tvg-url="" group-title="XXX",[COLOR=white][B]EXTASY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 
-#EXTINF:-1,[COLOR=white][B]FILMON EROTIC SENSATIONS[/B][/COLOR][COLOR=white][/COLOR]
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]FILMON FETISH FACTORY[/B][/COLOR][COLOR=white][/COLOR] 
-https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]WEB STREAM[/B][/COLOR][COLOR=white][/COLOR] 
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1,[COLOR=white][B]FILMON 1[/B][/COLOR][COLOR=white][/COLOR]
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]FILMON 2[/B][/COLOR][COLOR=white][/COLOR]
-https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]FILMON 3[/B][/COLOR][COLOR=white][/COLOR]
-https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-
 
 #EXTINF:-1 ,[COLOR=white][B]MILF[/B][/COLOR][COLOR=white][/COLOR]
 http://live.redtraffic.xyz/milf.m3u8
