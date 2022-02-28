@@ -17,8 +17,12 @@ https://00000000000000000000
 
 #EXTINF:-1 ,[COLOR=white][B]EXTASY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+
 #EXTINF:-1 ,[COLOR=white][B]VISIT-X TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 ,[COLOR=white][B]A3BIKINI TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
 #EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ADRIANA CHECHIK - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
 http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79933.m3u8
