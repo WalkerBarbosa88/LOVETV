@@ -100,6 +100,9 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.
 #EXTINF:-1 ,[COLOR=white][B]A3BIKINI TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
+#EXTINF:-1 ,[COLOR=white][B]A3BIKINI TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]FASHION TV MIDNITE SECRETS[/B][/COLOR][COLOR=white][/COLOR]
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
@@ -152,6 +155,12 @@ http://live.redtraffic.xyz/pornstar.m3u8
 
 #EXTINF:-1 ,[COLOR=white][B]POV[/B][/COLOR][COLOR=white][/COLOR]
 http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 ,[COLOR=white][B]AST TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.ast.tv/stream/1/master.m3u8
+
+#EXTINF:-1 ,[COLOR=white][B]AST TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.ast.tv/stream/2/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV TEEN GIRLS[/B][/COLOR][COLOR=white][/COLOR]
 http://live.mycamtv.com/teen.m3u8
