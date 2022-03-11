@@ -142,14 +142,7 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RUSSIAN USA[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HARDCORE USA[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FETISH USA[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/fetish.m3u8?PlaylistM3UCL
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS ADULTOS XXX  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -184,6 +177,15 @@ http://www.ast.tv/stream/1/master.m3u8
 
 #EXTINF:-1 ,[COLOR=white][B]AST TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://www.ast.tv/stream/2/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RUSSIAN USA[/B][/COLOR][COLOR=white][/COLOR]
+http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HARDCORE USA[/B][/COLOR][COLOR=white][/COLOR]
+http://cdn.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FETISH USA[/B][/COLOR][COLOR=white][/COLOR]
+http://cdn.adultiptv.net/fetish.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV TEEN GIRLS[/B][/COLOR][COLOR=white][/COLOR]
 http://live.mycamtv.com/teen.m3u8
