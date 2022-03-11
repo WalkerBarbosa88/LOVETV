@@ -10,7 +10,7 @@ http://0.0.0.0:00000
 #EXTM3U
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS NOVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  NOVOS CANAIS XXX  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000000000000
 
 
@@ -91,7 +91,7 @@ http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80409.m3u8
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS ERÓTICOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS ERÓTICOS / SENSUAIS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000000000000
 
 #EXTINF:-1 ,[COLOR=white][B]A3 BIKINI HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -135,7 +135,6 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS ADULTOS XXX  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000000000000
 
-
 #EXTINF:-1 ,[COLOR=white][B]EXTASY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 
@@ -153,12 +152,6 @@ http://live.redtraffic.xyz/pornstar.m3u8
 
 #EXTINF:-1 ,[COLOR=white][B]POV[/B][/COLOR][COLOR=white][/COLOR]
 http://live.redtraffic.xyz/pov.m3u8
-
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS ADULTOS XXX PUBLICIDADE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000000000000
-
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV TEEN GIRLS[/B][/COLOR][COLOR=white][/COLOR]
 http://live.mycamtv.com/teen.m3u8
