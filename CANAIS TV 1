@@ -17,8 +17,14 @@ https://00000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]VENUS SD[/B][/COLOR][COLOR=white][/COLOR]
 http://46.4.119.218:8880/play/a06c
+#EXTINF:-1,[COLOR=white][B]VENUS SD[/B][/COLOR][COLOR=white][/COLOR]
+http://186.46.29.115:8000/play/a017/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]PLAYBOY TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://46.4.119.218:8880/play/a035
+#EXTINF:-1,[COLOR=white][B]PLAYBOY TV SD[/B][/COLOR][COLOR=white][/COLOR]
+http://186.46.29.115:8000/play/a03i/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]HOT TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://46.4.119.218:8880/play/a06v
 
