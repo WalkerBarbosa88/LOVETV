@@ -5,7 +5,7 @@ http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 12/03/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 24/03/2022[/B][/COLOR][COLOR=orange][/COLOR]
   
 #EXTM3U
 
@@ -15,20 +15,11 @@ https://00000000000000000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]VENUS SD[/B][/COLOR][COLOR=white][/COLOR]
-http://46.4.119.218:8880/play/a06c
+
 #EXTINF:-1,[COLOR=white][B]VENUS SD[/B][/COLOR][COLOR=white][/COLOR]
 http://186.46.29.115:8000/play/a017/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PLAYBOY TV SD[/B][/COLOR][COLOR=white][/COLOR]
-http://46.4.119.218:8880/play/a035
 #EXTINF:-1,[COLOR=white][B]PLAYBOY TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://186.46.29.115:8000/play/a03i/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]HOT TV SD[/B][/COLOR][COLOR=white][/COLOR]
-http://46.4.119.218:8880/play/a06v
-
-
 #EXTINF:0 tvg-id="HustlerTV.us" group-title="XXX",[COLOR=white][B]HUSTLER TV[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.romanija.xyz:8080/22maky/test111/1667
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDLIGHT TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -107,9 +98,6 @@ http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzdf/JasminTV_880x880.png" group-title="Adults Only | 18+",[COLOR=white][B]JASMIN TV[/B][/COLOR][COLOR=white][/COLOR]
 http://109.71.162.112/live/sd.jasminchannel.stream/.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMxNTUxNDVf/Kaloopy_340x340.png" group-title="Adults Only | 18+",[COLOR=white][B]KALOOPY 18+[/B][/COLOR][COLOR=white][/COLOR]
-https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV LATINO[/B][/COLOR][COLOR=white][/COLOR]
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 
@@ -123,8 +111,6 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1412
 
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-#EXTINF:-1 ,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
 
@@ -157,91 +143,13 @@ http://live.redtraffic.xyz/pov.m3u8
 
 #EXTINF:-1 ,[COLOR=white][B]AST TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://www.ast.tv/stream/1/master.m3u8
-
 #EXTINF:-1 ,[COLOR=white][B]AST TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://www.ast.tv/stream/2/master.m3u8
-
-
-
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  OUTROS CANAIS ADULTOS XXX  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000000000000
 
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ADRIANA CHECHIK - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79933.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]AUGUST AMES - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79934.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]AVA ADDAMS - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79935.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ANGELA WHITE - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79936.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ABELLA DANGER - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79937.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ARIELLA FERRERA - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79938.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ASA AKIRA - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79939.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ANISSA KATE - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79943.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ANISSA KATE - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79944.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]AJ.APPLEGATE - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79946.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ALEXIS FAWX - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79947.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ABIGAIL MAC - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79948.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ALEX CHANCE - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79949.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ALINA LOPEZ - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/79974.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ANGEL SMALS - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80035.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ALESSANDRA JANE - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80036.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ARYA FAE - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80038.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ALEXA NOVA - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80050.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ALIX LYNX - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80051.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]AUBREY SINCLAIR - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80052.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]BALLA DANGER - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80053.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]BAILEY RYDER - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80055.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]CHERIE DEVILLE - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80056.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]CHRISTY CHARMING - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80067.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]DILLION HARPER - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80057.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]ELENA KOSHKA - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80066.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]FOXI DI - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80188.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]MIA KHALIFA - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80054.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]FETISH LIZA - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80297.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]GINA GERSON - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80298.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]GINA VALENTINA - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80376.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]BRIDGETTE B  - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80404.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]BLONDIE BOOM - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80405.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]BROOKE WYLDE - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80406.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]GRACE NOEL - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80407.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]CHANEL PRESTON - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80408.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",[COLOR=white][B]CASEY CALVERT - XXX STAR[/B][/COLOR][COLOR=white][/COLOR]
-http://vod.safetv.pro:24000/live/Brazzers_xxx/UZsKfseNaj/80409.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RUSSIAN USA[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
