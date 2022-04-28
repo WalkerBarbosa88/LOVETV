@@ -5,7 +5,7 @@ http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 09/04/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/04/2022[/B][/COLOR][COLOR=orange][/COLOR]
   
 #EXTM3U
 
@@ -23,7 +23,7 @@ http://00000000000000000000
 https://00000000000000000000
 
 
-#EXTINF:-1 ,[COLOR=white][B]A3 BIKINI HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 ,[COLOR=white][B]A3BIKINI HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 ,[COLOR=white][B]A3BIKINI TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
@@ -34,13 +34,7 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]JASMIN TV[/B][/COLOR][COLOR=white][/COLOR]
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]JASMIN TV[/B][/COLOR][COLOR=white][/COLOR]
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,[COLOR=white][B]JASMIN TV[/B][/COLOR][COLOR=white][/COLOR]
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzdf/JasminTV_880x880.png" group-title="Adults Only | 18+",[COLOR=white][B]JASMIN TV[/B][/COLOR][COLOR=white][/COLOR]
-http://109.71.162.112/live/sd.jasminchannel.stream/.m3u8
+http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV LATINO[/B][/COLOR][COLOR=white][/COLOR]
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
