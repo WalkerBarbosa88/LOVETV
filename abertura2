@@ -1,10 +1,13 @@
+<layouttype>thumbnail</layouttype>
+
+
 
 <channels>
 <channel>
 <name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] ADDON LOVE TV [/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
-<thumbnail>https://ia601501.us.archive.org/14/items/adultos-apenas_202201/Adultos%20Apenas.jpg</thumbnail>
+<thumbnail>https://ia802304.us.archive.org/25/items/icon-2_202111/icon%20(2).png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
+<fanart>https://ia804607.us.archive.org/34/items/fanart_20211118/fanart.jpg</fanart>
 <info></info>
 </channel>
 </channel>
@@ -15,7 +18,7 @@
 <name>[COLOR=gold][B]CANAIS TV 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia801802.us.archive.org/11/items/canais-adultos/Canais%20Adultos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LOVETV/main/CANAIS%20TV%201</externallink>
-<fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
+<fanart>https://ia804607.us.archive.org/34/items/fanart_20211118/fanart.jpg</fanart>
 <info></info>
 </channel>
 </channel>
@@ -26,7 +29,7 @@
 <name>[COLOR=gold][B]CANAIS TV 2[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
 <externallink>https://iptv-org.github.io/iptv/categories/xxx.m3u</externallink>
-<fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
+<fanart>https://ia804607.us.archive.org/34/items/fanart_20211118/fanart.jpg</fanart>
 <info></info>
 </channel>
 </channel>
@@ -37,7 +40,7 @@
 <name>[COLOR=gold][B]VIDEOS XXX 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia904502.us.archive.org/13/items/lista-videos-xxx/Lista%20Videos%20XXX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LOVETV/main/VIDEOSXXX</externallink>
-<fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
+<fanart>https://ia804607.us.archive.org/34/items/fanart_20211118/fanart.jpg</fanart>
 <info></info>
 </channel>
 </channel>
@@ -48,7 +51,7 @@
 <name>[COLOR=gold][B]VIDEOS XXX 2[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Soe1456/muse-shan-soe/main/MUSE-2</externallink>
-<fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
+<fanart>https://ia804607.us.archive.org/34/items/fanart_20211118/fanart.jpg</fanart>
 <info></info>
 </channel>
 </channel>
@@ -59,7 +62,7 @@
 <name>[COLOR=gold][B]VIDEOS XXX 3[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia904502.us.archive.org/13/items/lista-videos-xxx/Lista%20Videos%20XXX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LOVETV/main/VIDEOSXXX3</externallink>
-<fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
+<fanart>https://ia804607.us.archive.org/34/items/fanart_20211118/fanart.jpg</fanart>
 <info></info>
 </channel>
 </channel>
@@ -70,7 +73,7 @@
 <name>[COLOR=gold][B]ADULT IPTV VOD[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
 <externallink>http://adultiptv.net/vods.m3u8</externallink>
-<fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
+<fanart>https://ia804607.us.archive.org/34/items/fanart_20211118/fanart.jpg</fanart>
 <info></info>
 </channel>
 </channel>
@@ -81,10 +84,10 @@
   
 </channel>
 <channel>
-<name>[COLOR=gold][B]CANTINHO TESTES[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601502.us.archive.org/5/items/obras_202201/OBRAS.jpg</thumbnail>
+<name>[COLOR=gold][B]ÁREA DE TESTES[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia904600.us.archive.org/34/items/obras_202201/OBRAS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LOVETV/main/testes%20lovetv</externallink>
-<fanart>https://ia601409.us.archive.org/3/items/fanart_20211118/fanart.jpg</fanart>
+<fanart>https://ia804607.us.archive.org/34/items/fanart_20211118/fanart.jpg</fanart>
 <info></info>
 </channel>
 </channel>
