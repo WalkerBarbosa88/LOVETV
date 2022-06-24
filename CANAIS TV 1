@@ -5,7 +5,7 @@ http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 09/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 24/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
   
 #EXTM3U
 
@@ -13,11 +13,50 @@ http://0.0.0.0:00000
 #EXTINF:-1,[COLOR=yellow][B]/////////  NOVOS CANAIS ADULTOS XXX  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000000000000
 
+
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 1 (18+)
+http://195.154.185.179:80/xx_prive_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 2 (18+)
+http://95.87.227.29:8080/PASSIONXXX/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 3 (18+)
+http://195.154.185.179/xx_hot_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 4 (18+)
+http://195.154.185.179/xx_o_la_la_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 5 (18+)
+http://195.154.185.179/xx_jasmin_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 6 (18+)
+http://92.242.176.83:8096
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 7 (18+)
+http://92.242.176.83:8097
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 8 (18+)
+http://92.242.176.83:8097
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 9 (18+)
+http://193.33.240.8:8080/hustler_hd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 10 (18+)
+http://46.174.83.66/Russkaya_Noch/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 11 (18+)
+http://195.154.185.179:80/xx_leo_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 12 (18+)
+http://195.154.185.179:80/xx_pink_o_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 13 (18+)
+http://195.154.185.179:80/xx_venus_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 14 (18+)
+http://195.154.185.179:80/xx_hustler_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 15 (18+)
+http://195.154.185.179:80/xx_playboy_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 16 (18+)
+http://195.154.185.179/xx_nuart_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 17 (18+)
+http://195.154.185.179/xx_fashion_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",XXX MULT
+http://144.76.58.245:2307/cartoon/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OZY45
+https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OZY46
+https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS FIXOS ADULTOS XXX  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -41,7 +80,6 @@ https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV - JENNY LIVE 1[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV - JENNY LIVE 2[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1412244599_b1896000.m3u8
 
@@ -49,9 +87,18 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1412
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
+http://server.miamitvchannel.com/mexicotv/miamitvmexico1/playlist.m3u8
+#EXTINF:-1 ,[COLOR=white][B]MIAMI TV NAKED KITCHEN HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.miamitvchannel.com/Nakedkitchen/nakedkitchen140/chunklist.m3u8
+
+#EXTINF:-1 ,[COLOR=white][B]MIAMI TV BLOG 18+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.miamitvchannel.com/blog/blog/chunklist.m3u8
 
 #EXTINF:-1 ,[COLOR=white][B]EXTASY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1 ,[COLOR=white][B]EXTASY 4K[/B][/COLOR][COLOR=white][/COLOR]
+http://213.81.133.133:8080/extasy4k/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]XXX VISIT-X TV[/B][/COLOR][COLOR=white][/COLOR]
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
