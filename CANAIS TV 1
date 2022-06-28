@@ -16,20 +16,30 @@ https://00000000000000000000
 
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]VENUS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a01s/index.m3u8
+#EXTINF:-1,[COLOR=white][B]HOT MAN[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a00m/index.m3u8
+#EXTINF:-1,[COLOR=white][B]HOT TABOO[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a00n/index.m3u8
+#EXTINF:-1,[COLOR=white][B]HOT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a01r/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SEXTREME[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a00l/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 7 (18+)
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEST 7 (18+)[/B][/COLOR][COLOR=white][/COLOR]
 http://92.242.176.83:8097
-#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 8 (18+)
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEST 8 (18+)[/B][/COLOR][COLOR=white][/COLOR]
 http://92.242.176.83:8097
-#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 9 (18+)
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEST 9 (18+)[/B][/COLOR][COLOR=white][/COLOR]
 http://193.33.240.8:8080/hustler_hd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TEST 10 (18+)
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEST 10 (18+)[/B][/COLOR][COLOR=white][/COLOR]
 http://46.174.83.66/Russkaya_Noch/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",XXX MULT
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XXX MULT[/B][/COLOR][COLOR=white][/COLOR]
 http://144.76.58.245:2307/cartoon/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",OZY45
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]OZY45[/B][/COLOR][COLOR=white][/COLOR]
 https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",OZY46
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]OZY46[/B][/COLOR][COLOR=white][/COLOR]
 https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
 
 #######################################################################################################################
