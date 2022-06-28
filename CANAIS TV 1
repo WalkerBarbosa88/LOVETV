@@ -26,6 +26,10 @@ http://45.92.69.77:8000/play/a00n/index.m3u8
 http://45.92.69.77:8000/play/a01r/index.m3u8
 #EXTINF:-1,[COLOR=white][B]SEXTREME[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a00l/index.m3u8
+#EXTINF:-1,[COLOR=white][B]PENTHOUSE HD1[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a032/index.m3u8
+#EXTINF:-1,[COLOR=white][B]PLAYBOY TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a051/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEST 7 (18+)[/B][/COLOR][COLOR=white][/COLOR]
 http://92.242.176.83:8097
