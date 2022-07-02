@@ -39,13 +39,26 @@
 
 </channel>
 <channel>
-<name>[COLOR=gold][B]CANAIS & VÍDEOS XXX[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]CANAIS & VÍDEOS XXX 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
-<externallink> http://topplay.do.am/AdultsTopPlay.m3u</externallink>
+<externallink>http://topplay.do.am/AdultsTopPlay.m3u</externallink>
 <fanart>https://ia804607.us.archive.org/34/items/fanart_20211118/fanart.jpg</fanart>
 <info></info>
 </channel>
 </channel>
+
+
+
+</channel>
+<channel>
+<name>[COLOR=gold][B]CANAIS & VÍDEOS XXX 2[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gunzoman14/GunzoMan/main/ADULT</externallink>
+<fanart>https://ia804607.us.archive.org/34/items/fanart_20211118/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channel>
+
 
 
 
