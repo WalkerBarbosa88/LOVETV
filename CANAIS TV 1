@@ -10,6 +10,18 @@ http://0.0.0.0:00000
 #EXTM3U
 
 
+#EXTM3U
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  ESPECIAL CANAIS TV XXX 4K  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://00000000000000000000
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TINY 4K[/COLOR][COLOR=white][/COLOR]
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6258/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]EROMANIA 4K[/COLOR][COLOR=white][/COLOR]
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/10049/index.m3u8
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CONTEÚDOS DIVERSOS XXX  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
