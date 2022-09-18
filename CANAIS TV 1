@@ -23,6 +23,12 @@ http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6258/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]EROMANIA 4K[/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/10049/index.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]EXTASY 4K[/COLOR][COLOR=white][/COLOR]
+http://he11o.akadatel.com/iptv/5VMBFPVAR6FYLG/5014/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CUM 4K[/COLOR][COLOR=white][/COLOR]
+http://he11o.akadatel.com/iptv/5VMBFPVAR6FYLG/6190/index.m3u8
+
 
 #EXTM3U
 #######################################################################################################################
@@ -601,7 +607,7 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,[COLOR=white][B]EXTASY 4K[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]EXTASY FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.81.133.133:8080/extasy4k/index.m3u8
 #EXTINF:-1,[COLOR=white][B]FTV[/B][/COLOR][COLOR=white][/COLOR]
 http://212.18.115.177:3169/play/ftv/index.m3u8
