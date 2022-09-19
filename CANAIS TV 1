@@ -9,28 +9,6 @@ http://0.0.0.0:00000
   
 #EXTM3U
 
-
-#EXTM3U
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  ESPECIAL CANAIS TV XXX 4K  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000000000000
-
-#EXTM3U
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TINY 4K[/COLOR][COLOR=white][/COLOR]
-http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6258/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]EROMANIA 4K[/COLOR][COLOR=white][/COLOR]
-http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/10049/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]EXTASY 4K[/COLOR][COLOR=white][/COLOR]
-http://he11o.akadatel.com/iptv/5VMBFPVAR6FYLG/5014/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CUM 4K[/COLOR][COLOR=white][/COLOR]
-http://he11o.akadatel.com/iptv/5VMBFPVAR6FYLG/6190/index.m3u8
-
-
-#EXTM3U
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  NOVOS CANAIS ADULTOS XXX  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000000000000
@@ -50,112 +28,102 @@ http://193.33.240.8:8080/hustler_hd/index.m3u8
 http://46.174.83.66/Russkaya_Noch/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]XXX MULT[/COLOR][COLOR=white][/COLOR]
 http://144.76.58.245:2307/cartoon/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]OZY45[/COLOR][COLOR=white][/COLOR]
-https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]OZY46[/COLOR][COLOR=white][/COLOR]
-https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
 
 
-#EXTINF:0 tvg-id="BraZZersTV.us" group-title="Channels",Brazzers HD
+#EXTINF:0 tvg-id="BraZZersTV.us" group-title="Channels",BRAZZERS HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6182/index.m3u8
-#EXTINF:0 tvg-id="Brazzers.ero" group-title="Channels",Brazzers TV Europe
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="Channels",BRAZZERS TV EUROPE
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/910/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Brazzers eXXtra
+#EXTINF:0 tvg-id="ext" group-title="Channels",BRAZZERS EXXTRA
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6181/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hustler HD orig
+#EXTINF:0 tvg-id="ext" group-title="Channels",HUSTLER HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/9065/index.m3u8
-#EXTINF:0 tvg-id="HustlerHD.ero" group-title="Channels",Hustler HD Europe
+#EXTINF:0 tvg-id="HustlerHD.ero" group-title="Channels",HUSTLER HD EUROPE
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/244/index.m3u8
-#EXTINF:0 tvg-id="hustler-blue" group-title="Channels",Blue Hustler
+#EXTINF:0 tvg-id="hustler-blue" group-title="Channels",BLUE HUSTLER
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/1064/index.m3u8
-#EXTINF:0 tvg-id="PenthousePassionHD.ero" group-title="Channels",Penthouse Passion HD
+#EXTINF:0 tvg-id="PenthousePassionHD.ero" group-title="Channels",PENTHOUSE PASSION HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/1073/index.m3u8
-#EXTINF:0 tvg-id="PenthouseGold.ero" group-title="Channels",Penthouse Gold HD
+#EXTINF:0 tvg-id="PenthouseGold.ero" group-title="Channels",PENTHOUSE GOLD HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/5011/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Penthouse Quickies HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",PENTHOUSE QUICKIES HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/5013/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DDF Network
+#EXTINF:0 tvg-id="ext" group-title="Channels",DDF NETWORK
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6194/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DDF Busty
+#EXTINF:0 tvg-id="ext" group-title="Channels",DDF BUSTY
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6193/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Naughty America
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAUGHTY AMERICA
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6237/index.m3u8
-#EXTINF:0 tvg-id="russkaya-noch" group-title="Channels",Русская Ночь
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/147/index.m3u8
-#EXTINF:0 tvg-id="nu-art" group-title="Channels",Нюарт TV
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/2057/index.m3u8
-#EXTINF:0 tvg-id="shalun" group-title="Channels",Шалун
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/922/index.m3u8
-#EXTINF:0 tvg-id="playboy" group-title="Channels",Playboy
+
+#EXTINF:0 tvg-id="playboy" group-title="Channels",PLAYBOY
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/527/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sexto Senso
+#EXTINF:0 tvg-id="ext" group-title="Channels",SEXTO SENSO
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/875/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Penthouse Quickies 1300k
+#EXTINF:0 tvg-id="ext" group-title="Channels",PENTHOUSE QUICKIES HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/5012/index.m3u8
-#EXTINF:0 tvg-id="candy" group-title="Channels",Candy
+#EXTINF:0 tvg-id="candy" group-title="Channels",CANDY
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/923/index.m3u8
-#EXTINF:0 tvg-id="FrenchLover.ero" group-title="Channels",FrenchLover
+#EXTINF:0 tvg-id="FrenchLover.ero" group-title="Channels",FRENCH LOVER HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/2160/index.m3u8
-#EXTINF:0 tvg-id="RedlightHD.ero" group-title="Channels",Redlight HD
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="Channels",REDLIGHT HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/242/index.m3u8
-#EXTINF:0 tvg-id="VividRed.ero" group-title="Channels",Vivid Red HD
+#EXTINF:0 tvg-id="VividRed.ero" group-title="Channels",VIVID RED HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/2162/index.m3u8
-#EXTINF:0 tvg-id="Eroxxx.ero" group-title="Channels",Eroxxx HD
+#EXTINF:0 tvg-id="Eroxxx.ero" group-title="Channels",EROXXX HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/5015/index.m3u8
 #EXTINF:0 tvg-id="xxl" group-title="Channels",XXL
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/5009/index.m3u8
-#EXTINF:0 tvg-id="PassionXXX.ero" group-title="Channels",Passion XXX
+#EXTINF:0 tvg-id="PassionXXX.ero" group-title="Channels",PASSION XXX
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/878/index.m3u8
-#EXTINF:0 tvg-id="o-la-la" group-title="Channels",O-la-la
+#EXTINF:0 tvg-id="o-la-la" group-title="Channels",O-LA-LA
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/2161/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Extasy 4K
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXTASY HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/5014/index.m3u8
-#EXTINF:0 tvg-id="PrivateTV.ero" group-title="Channels",Private TV
+#EXTINF:0 tvg-id="PrivateTV.ero" group-title="Channels",PRIVATE TV
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/243/index.m3u8
-#EXTINF:0 tvg-id="BarelyLegal.bg" group-title="Channels",Barely legal
+#EXTINF:0 tvg-id="BarelyLegal.bg" group-title="Channels",BARELY LEGAL
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/871/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Exxxotica HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXXOTICA HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/2397/index.m3u8
-#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",Dorcel TV HD
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",DORCEL TV HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/245/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Adult Time
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT TIME
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6166/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Anal Red TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANAL RED TV
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6167/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Analized HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANALIZED HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6168/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",AST TV
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6169/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",AST TV 2
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6170/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",A3 Bikini
+#EXTINF:0 tvg-id="ext" group-title="Channels",A3 BIKINI
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6165/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Babes TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BABES TV HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6172/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bang Bros HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BANG BROS HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6173/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bang!
+#EXTINF:0 tvg-id="ext" group-title="Channels",BANG!
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6174/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Big Ass Adult TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",BIG ASS ADULT TV
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6175/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Big Dick Red TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",BIG DICK RED TV
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6176/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Big Tits Adult TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",BIG TITS ADULT TV
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6177/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Blacked HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BLACKED HD
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6178/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Blonde Adult TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",BLONDE ADULT TV
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6179/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Blowjob Red TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",BLOWJOB RED TV
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6180/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Brunette Adult TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",BRUNETTE ADULT TV
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6183/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cherry Pimps
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHERRY PIMPS
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6185/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Club 17
+#EXTINF:0 tvg-id="ext" group-title="Channels",CLUB 17
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6186/index.m3u8
-#EXTINF:0 tvg-id="russkaya-noch" group-title="Channels",Русская ночь orig
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/9344/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Compilation Adult TV
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6187/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Cuckold Red TV
