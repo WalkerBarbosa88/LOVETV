@@ -1,312 +1,95 @@
-
-
+#EXTM3U
 ##########################################################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CANAIS TV ADULTOS XXX 2  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CANAIS TV ADULTOS 2  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
 
+#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 26/09/2022[/B][/COLOR][COLOR=yellow][/COLOR]
 
+#EXTM3U
 
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TEMP. ADULTOS XXX  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000000000000
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PINKO TV[/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/pinkotv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]REDLIGHT TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",PLAYBOY LA TV
+http://191.212.166.203:4000/play/a0ee
+#EXTINF:0 tvg-id="Sextreme.ar" group-title="Channels",SEXTREME
+http://191.212.166.203:4000/play/a0ed
+#EXTINF:0 tvg-id="Sexyhot.br" group-title="Channels",SEXY HOT
+http://191.212.166.203:4000/play/a0ef
+#EXTINF:0 tvg-id="Sexprive.br" group-title="Channels",SEXPRIVE
+http://191.212.166.203:4000/play/a0fu
+#EXTINF:0 tvg-id="Hustler.br" group-title="Channels",HUSTLER
+http://78.83.191.18:8000/play/a078
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXSTASY HD
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="Channels",REDLIGHT
 http://93.152.174.144:4000/play/privatetv1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TEST 7 (18+)[/COLOR][COLOR=white][/COLOR]
-http://92.242.176.83:8097
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TEST 9 (18+)[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",EROX
+http://94.229.250.73:8008/play/a002
+#EXTINF:0 tvg-id="ext" group-title="Channels",ЯК TV
+http://195.154.185.179:80/xx_hustler_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EROTIC
+http://195.154.185.179/xx_brazzers_tv_europe/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EROTIC 3
+http://195.154.185.179/xx_hot_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EROTIC 4
+http://195.154.185.179:80/xx_venus_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EROTIC 5
+http://195.154.185.179/xx_sextreme/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EROTIC 6
+http://195.154.185.179/xx_sexy_hot/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EROTIC 8
+http://195.154.185.179/xx_x1/index.m3u8
+#EXTINF:0 tvg-id="BalkanErotic.svn" group-title="Channels",BALKAN EROTIC
+http://195.154.185.179/xx_o_la_la_tv/index.m3u8
+#EXTINF:0 tvg-id="PenthouseGold.ero" group-title="Channels",PENTHOUSE GOLD
+http://195.154.185.179/xx_jasmin_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAUGHT HD
+http://195.154.185.179/xx_nuart_tv/index.m3u8
+#EXTINF:0 tvg-id="PenthouseGold.ero" group-title="Channels",PENTHOUSE GOLD
+http://195.154.185.179/xx_jasmin_tv/index.m3u8
+#EXTINF:0 tvg-id="HustlerHD.ero" group-title="Channels",HUSTLER HD
 http://193.33.240.8:8080/hustler_hd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TEST 10 (18+)[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUSSIAN NIGHT 
 http://46.174.83.66/Russkaya_Noch/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]XXX MULT[/COLOR][COLOR=white][/COLOR]
-http://144.76.58.245:2307/cartoon/index.m3u8
-
-
-#EXTINF:0 tvg-id="BraZZersTV.us" group-title="Channels",[COLOR=white]BRAZZERS HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6182/index.m3u8
-#EXTINF:0 tvg-id="Brazzers.ero" group-title="Channels",[COLOR=white]BRAZZERS TV EUROPE[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/910/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]BRAZZERS EXXTRA[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6181/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]HUSTLER HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/9065/index.m3u8
-#EXTINF:0 tvg-id="HustlerHD.ero" group-title="Channels",[COLOR=white]HUSTLER HD EUROPE[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/244/index.m3u8
-#EXTINF:0 tvg-id="hustler-blue" group-title="Channels",[COLOR=white]BLUE HUSTLER[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/1064/index.m3u8
-#EXTINF:0 tvg-id="PenthousePassionHD.ero" group-title="Channels",[COLOR=white]PENTHOUSE PASSION HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/1073/index.m3u8
-#EXTINF:0 tvg-id="PenthouseGold.ero" group-title="Channels",[COLOR=white]PENTHOUSE GOLD HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/5011/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PENTHOUSE QUICKIES HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/5013/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PENTHOUSE QUICKIES HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/5012/index.m3u8
-#EXTINF:0 tvg-id="FrenchLover.ero" group-title="Channels",[COLOR=white]FRENCH LOVER HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/2160/index.m3u8
-#EXTINF:0 tvg-id="RedlightHD.ero" group-title="Channels",[COLOR=white]REDLIGHT HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/242/index.m3u8
-#EXTINF:0 tvg-id="VividRed.ero" group-title="Channels",[COLOR=white]VIVID RED HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/2162/index.m3u8
-#EXTINF:0 tvg-id="PrivateTV.ero" group-title="Channels",[COLOR=white]PRIVATE TV[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/243/index.m3u8
-#EXTINF:0 tvg-id="BarelyLegal.bg" group-title="Channels",[COLOR=white]BARELY LEGAL[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/871/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]EXXXOTICA HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/2397/index.m3u8
-#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",[COLOR=white]DORCEL TV HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/245/index.m3u8
-
-#EXTINF:0 tvg-id="playboy" group-title="Channels",[COLOR=white]PLAYBOY[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/527/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]BABES TV HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6172/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]BANG BROS HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6173/index.m3u8
-#EXTINF:0 tvg-id="PinkErotic3.rs" group-title="Channels",[COLOR=white]PINK EROTIC 3[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6240/index.m3u8
-#EXTINF:0 tvg-id="PinkErotic4.rs" group-title="Channels",[COLOR=white]PINK EROTIC 4[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6241/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]A3 BIKINI[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6165/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]EXTASY HD[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/5014/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PINK EROTICA 1[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12146/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PINK EROTICA 2[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12147/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PINK EROTICA 3[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12148/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PINK EROTICA 4[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12149/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PINK EROTICA 5[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12150/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PINK EROTICA 6[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12151/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PINK EROTICA 7[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12152/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PINK EROTICA 8[/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12153/index.m3u8
-
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS FIXOS ADULTOS XXX  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000000000000
-
-
-#EXTINF:-1,[COLOR=white][B]A3BIKINI HD[/B][/COLOR][COLOR=white][/COLOR]
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]A3BIKINI HD[/B][/COLOR][COLOR=white][/COLOR]
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1,[COLOR=white][B]A3BIKINI HD[/B][/COLOR][COLOR=white][/COLOR]
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]FASHION TV MIDNITE SECRETS[/B][/COLOR][COLOR=white][/COLOR]
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]MIAMI TV LATINO[/B][/COLOR][COLOR=white][/COLOR]
-https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]MIAMI TV - JENNY LIVE 1[/B][/COLOR][COLOR=white][/COLOR]
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]MIAMI TV - JENNY LIVE 1[/B][/COLOR][COLOR=white][/COLOR]
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]MIAMI TV MEXICO[/B][/COLOR][COLOR=white][/COLOR]
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,[COLOR=white][B]EXTASY FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.81.133.133:8080/extasy4k/index.m3u8
-#EXTINF:-1,[COLOR=white][B]FTV[/B][/COLOR][COLOR=white][/COLOR]
-http://212.18.115.177:3169/play/ftv/index.m3u8
-#EXTINF:-1,[COLOR=white][B]VISIT X TV[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w1911927332.m3u8
-#EXTINF:-1,[COLOR=white][B]WEB STREAM TV[/B][/COLOR][COLOR=white][/COLOR]
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]XXX VISIT-X TV[/B][/COLOR][COLOR=white][/COLOR]
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]XXX VISIT-X TV[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-#EXTINF:-1 ,[COLOR=white][B]MILF[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 ,[COLOR=white][B]MILF[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]MILF HD[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 ,[COLOR=white][B]PORNSTAR[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 ,[COLOR=white][B]PORNSTAR[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,[COLOR=white][B]POV[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 ,[COLOR=white][B]AST TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 ,[COLOR=white][B]AST TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.ast.tv/stream/2/master.m3u8
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  OUTROS CANAIS ADULTOS XXX  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000000000000
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RUSSIAN USA[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HARDCORE USA[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FETISH USA[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/fetish.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV TEEN GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/teen.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV MILF[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/milf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV YOUNG GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/young.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV MATURE[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/bigtits.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV ARAB GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV EBONY GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/ebony.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV ASIAN GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/asian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV BRUNETTE GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/brunette.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV LATINA GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/latina.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV WHITE GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/white.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV BLONDE GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/blonde.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV ANAL[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/anal.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV BIG ASS GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/bigass.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV GIRLS SQUIRT[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/squirt.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV BIG TIG GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/bigtits.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV SKINNY GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/skinny.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV MEDIUM GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/medium.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MYCAM TV BLOWJOB[/B][/COLOR][COLOR=white][/COLOR]
-http://live.mycamtv.com/blowjob.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET ANAL[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET ASIAN[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET BIG ASS[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET BIG ASS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET BIG DICK[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET BIG DICK[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET BIG TITSK[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET BIG TITSK[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET BLONDE[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET BLOWJOB[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET BLOWJOB[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET BRUNETTE[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET COMPILATION[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET CUCKHOLD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET CUCKHOLD[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET FETISH[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET FETISH[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET GANGBANG[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET GANGBANG[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.net/gangbang.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET HARDCORE[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET HARDCORE[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET INTERRACIAL[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET INTERRACIAL[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET LATINA[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET LATINA[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET LESBIAN[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET LESBIAN[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET LIVE CAMS[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET LIVE MILF[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET LIVE MILF[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET PORNSTAR[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET PORNSTAR[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET POV[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET POV[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET ROUGH[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET RUSSIAN[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET RUSSIAN[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET TEEN[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET TEEN[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET THREESOME[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET THREESOME[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]ADULTIPTV.NET WOMAN[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.net/woman.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 1[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 2[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 3[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 4[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 5[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 6[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 7[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 8[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 10[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 11[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 12[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 13[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 14[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 15[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]REDTRAFFIC 16[/B][/COLOR][COLOR=white][/COLOR]
-http://live.redtraffic.xyz/pov.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",CH1 18+
+http://92.242.176.83:8097
+#EXTINF:0 tvg-id="ext" group-title="Channels",CH2 18+
+http://92.242.176.83:8096
+#EXTINF:0 tvg-id="ext" group-title="Channels",CH3 18+
+http://92.242.176.83:8096
+#EXTINF:0 tvg-id="ext" group-title="Channels",CH4 18+
+http://92.242.176.83:8097
+#EXTINF:0 tvg-id="ext" group-title="Channels",CH5 18+
+http://92.242.176.83:8098
+#EXTINF:0 tvg-id="VividRed.ero" group-title="Channels",VIVID RED HD
+http://195.154.185.179/xx_xy_max_hd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Penthouse QUICKIES HD
+http://80.24.75.92:5555/udp/239.111.4.2:1234
+#EXTINF:0 tvg-id="DuskTV.ero" group-title="Channels",DUSK 
+http://195.154.185.179/xx_xy_mix_hd/index.m3u8
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",DORCEL
+http://194.163.179.246/slovenci/porno/dorcel.m3u8
+#EXTINF:0 tvg-id="VIXEN.ero" group-title="Channels",VIXEN 
+http://195.154.185.179/xx_stars_xxx_hd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIVATE HD
+http://195.154.185.179/xx_private_tv_hd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXXOTICA HD
+http://195.154.185.179/xx_oldtimer/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LEGAL
+http://195.154.185.179/xx_nuart_tv_hd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAUGHTY 
+http://195.154.185.179/xx_nuart_tv/index.m3u8
+#EXTINF:0 tvg-id="HotPleasure.svn" group-title="Channels",HOT PLEASURE
+http://195.154.185.179/xx_leo_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PURE BABES 
+http://195.154.185.179/xx_hot_pleasure/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DP
+http://195.154.185.179/xx_extreme/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HOT XXL
+http://195.154.185.179/xx_barely_legal_tv/index.m3u8
+#EXTINF:0 tvg-id="FrenchLover.ero" group-title="Channels",FRENCH LOVER
+http://195.154.185.179/xx_balkan_erotic/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",XYMIX HD
+http://195.154.185.179/xx_babes_tv_hd/index.m3u8
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="Channels",BRAZZERS EUROPE
+http://195.154.185.179/xx_xxl/index.m3u8
 
