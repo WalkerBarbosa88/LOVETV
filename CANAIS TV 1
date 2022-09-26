@@ -16,6 +16,16 @@ http://0.0.0.0:00000
 https://00000000000000000000
 
 
+
+#EXTINF:0 tvg-id="playboy" group-title="Channels",[COLOR=white][B]PLAYBOY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/527/index.m3u8
+#EXTINF:0 tvg-id="playboy" group-title="Channels",[COLOR=white][B]PLAYBOY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://160.20.164.171:8001/play/a074
+#EXTINF:0 tvg-id="playboy" group-title="Channels",[COLOR=white][B]SEXTREME HD[/B][/COLOR][COLOR=white][/COLOR]
+http://160.20.164.171:8001/play/a028
+#EXTINF:0 tvg-id="playboy" group-title="Channels",[COLOR=white][B]VENUS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://160.20.164.171:8001/play/a034
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINKO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]REDLIGHT TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -58,8 +68,6 @@ http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/2397/index.m3u8
 #EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",[COLOR=white][B]DORCEL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/245/index.m3u8
 
-#EXTINF:0 tvg-id="playboy" group-title="Channels",[COLOR=white][B]PLAYBOY[/B][/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/527/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BABES TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6172/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BANG BROS HD[/B][/COLOR][COLOR=white][/COLOR]
