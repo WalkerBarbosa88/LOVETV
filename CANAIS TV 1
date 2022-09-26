@@ -20,15 +20,8 @@ https://00000000000000000000
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]REDLIGHT TV[/B][/COLOR][COLOR=white][/COLOR]
 http://93.152.174.144:4000/play/privatetv1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEST 7 (18+)[/B][/COLOR][COLOR=white][/COLOR]
-http://92.242.176.83:8097
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEST 9 (18+)[/B][/COLOR][COLOR=white][/COLOR]
-http://193.33.240.8:8080/hustler_hd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEST 10 (18+)[/B][/COLOR][COLOR=white][/COLOR]
-http://46.174.83.66/Russkaya_Noch/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XXX MULT[/B][/COLOR][COLOR=white][/COLOR]
 http://144.76.58.245:2307/cartoon/index.m3u8
-
 
 #EXTINF:0 tvg-id="BraZZersTV.us" group-title="Channels",[COLOR=white][B]BRAZZERS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6182/index.m3u8
@@ -71,30 +64,39 @@ http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/527/index.m3u8
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6172/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BANG BROS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6173/index.m3u8
-#EXTINF:0 tvg-id="PinkErotic3.rs" group-title="Channels",[COLOR=white][B]PINK EROTIC 3[/B][/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6240/index.m3u8
-#EXTINF:0 tvg-id="PinkErotic4.rs" group-title="Channels",[COLOR=white][B]PINK EROTIC 4[/B][/COLOR][COLOR=white][/COLOR]
-http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6241/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]A3 BIKINI[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6165/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EXTASY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/5014/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTICA 1[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTIC 1[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12146/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTICA 2[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTIC 2[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12147/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTICA 3[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTIC 3[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12148/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTICA 4[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="PinkErotic3.rs" group-title="Channels",[COLOR=white][B]PINK EROTIC 3[/B][/COLOR][COLOR=white][/COLOR]
+http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6240/index.m3u8
+#EXTINF:0 tvg-id="PinkErotic4.rs" group-title="Channels",[COLOR=white][B]PINK EROTIC 4[/B][/COLOR][COLOR=white][/COLOR]
+http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/6241/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTIC 4[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12149/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTICA 5[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTIC 5[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12150/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTICA 6[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTIC 6[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12151/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTICA 7[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTIC 7[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12152/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTICA 8[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PINK EROTIC 8[/B][/COLOR][COLOR=white][/COLOR]
 http://tduzsfhg.megatv.fun/iptv/2B9DCHEPPQYKMH/12153/index.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEST 7 (18+)[/B][/COLOR][COLOR=white][/COLOR]
+http://92.242.176.83:8097
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEST 9 (18+)[/B][/COLOR][COLOR=white][/COLOR]
+http://193.33.240.8:8080/hustler_hd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEST 10 (18+)[/B][/COLOR][COLOR=white][/COLOR]
+http://46.174.83.66/Russkaya_Noch/index.m3u8
 
 
 #######################################################################################################################
